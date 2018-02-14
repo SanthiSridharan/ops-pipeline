@@ -1,3 +1,6 @@
+# We built this project to help our engineers as well as users in the community.  Unfortunately, we are no longer able to fully support the project, and we will be archiving the project on February 28th. Feel free to fork the project and maintain your own version. #
+
+
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 The Ops-Pipeline is an "infrastructure-as-code" project demonstrating the use of [Hashicorp's Packer](https://www.packer.io/)
